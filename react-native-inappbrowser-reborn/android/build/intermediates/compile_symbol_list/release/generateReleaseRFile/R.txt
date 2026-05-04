@@ -1,0 +1,2 @@
+int drawable ic_arrow_back_black 0x0
+int drawable ic_arrow_back_white 0x0

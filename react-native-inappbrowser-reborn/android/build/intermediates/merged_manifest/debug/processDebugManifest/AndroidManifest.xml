@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.proyecto26.inappbrowser" >
+
+    <uses-sdk android:minSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <queries>
+        <intent>
+            <action android:name="android.support.customtabs.action.CustomTabsService" />
+        </intent>
+    </queries>
+
+    <application>
+        <activity
+            android:name="com.proyecto26.inappbrowser.ChromeTabsManagerActivity"
+            android:exported="false" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android"
+    name=":react-native-inappbrowser-reborn"
+    type="LIBRARY"
+    maven="DasCollection:react-native-inappbrowser-reborn:unspecified"
+    agpVersion="8.9.2"
+    buildFolder="build"
+    bootClassPath="/Users/apple/Library/Android/sdk/platforms/android-36/android.jar:/Users/apple/Library/Android/sdk/build-tools/36.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

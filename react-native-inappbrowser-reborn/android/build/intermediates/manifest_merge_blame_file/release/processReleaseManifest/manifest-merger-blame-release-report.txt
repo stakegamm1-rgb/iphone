@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.proyecto26.inappbrowser" >
+4
+5    <uses-sdk android:minSdkVersion="24" />
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:5:5-67
+7-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:5:22-64
+8
+9    <queries>
+9-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:13:5-17:15
+10        <intent>
+10-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:14:9-16:18
+11            <action android:name="android.support.customtabs.action.CustomTabsService" />
+11-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:15:13-90
+11-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:15:21-87
+12        </intent>
+13    </queries>
+14
+15    <application>
+15-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:7:5-12:19
+16        <activity
+16-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:8:9-11:20
+17            android:name="com.proyecto26.inappbrowser.ChromeTabsManagerActivity"
+17-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:9:9-50
+18            android:exported="false" >
+18-->/Users/apple/Documents/Delaine/Apps/DasCollection/node_modules/react-native-inappbrowser-reborn/android/src/main/AndroidManifest.xml:10:9-33
+19        </activity>
+20    </application>
+21
+22</manifest>
